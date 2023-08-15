@@ -23,5 +23,6 @@ public class Githubdemo {
         System.out.println("wk1");
         System.out.println("wk1");
              System.out.println("wwjz");
+             System.out.println("wk1");
     }
 }
